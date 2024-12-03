@@ -44,8 +44,8 @@ This project focuses on detecting deepfake images by fine-tuning a pre-trained V
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/deepfake-detection.git
-   cd deepfake-detection
+   git clone https://github.com/Ashish-C01/deepfake-image-detection.git
+   cd deepfake-image-detection
    ```
 
 2. Install dependencies:
